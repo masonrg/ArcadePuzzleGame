@@ -1,7 +1,7 @@
-# Tetris with EnTT
-Classic Tetris game made in C++ using SDL2 and EnTT libraries.
+# Arcade puzzle game with EnTT
+Puzzle game made in C++ using SDL2 and EnTT libraries.
 
-![tetris_gameplay](https://user-images.githubusercontent.com/24985050/62683072-77dea100-b972-11e9-88c6-1c723403a8f1.png)
+![puzzle_gameplay](https://user-images.githubusercontent.com/24985050/62686064-d3ac2880-b978-11e9-8b54-aef44eb5c9e1.png)
 
 
 ## Details
