@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 	Uint32 frameStart;
 	int frameTime;
 
-	std::unique_ptr<Game> game = std::make_unique<Game>(std::string("Tetris"), GameScreen::total_pixel_width, GameScreen::total_pixel_height);
+	std::unique_ptr<Game> game = std::make_unique<Game>(std::string("Arcade Puzzle"), GameScreen::total_pixel_width, GameScreen::total_pixel_height);
 
 	while (game->IsRunning())
 	{
